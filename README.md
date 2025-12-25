@@ -1,4 +1,4 @@
-# Projet Akowe - Indice SSA (version debutant)
+# Projet Akowe - Indice SSA
 
 Ce projet construit un indice simple pour prioriser les pays d'Afrique subsaharienne (SSA) pour une EdTech.
 Il combine 4 dimensions :
@@ -8,9 +8,8 @@ Il combine 4 dimensions :
 - faisabilite operationnelle (acces Internet).
 
 ## Fichiers principaux
-- `Analyse EDSTAT.ipynb` : notebook principal (pas a pas, code simple).
+- `Analyse EDSTAT.ipynb` : notebook principal.
 - `EdStatsData.csv`, `EdStatsCountry.csv`, `EdStatsSeries.csv` : donnees EdStats.
-- `Les graphiques/` : images generees.
 
 ## Lancer le projet
 1) Installer les dependances :
