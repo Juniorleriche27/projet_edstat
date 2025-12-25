@@ -5,5 +5,8 @@ EdStats*.csv
 *.pptx
 ~$*.pptx
 
+# Graphiques
+Les graphiques/
+
 # Jupyter
 .ipynb_checkpoints/
