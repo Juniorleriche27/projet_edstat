@@ -1,0 +1,9 @@
+# Data files (large)
+EdStats*.csv
+
+# Presentations
+*.pptx
+~$*.pptx
+
+# Jupyter
+.ipynb_checkpoints/
